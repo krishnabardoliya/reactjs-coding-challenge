@@ -1,3 +1,5 @@
+Demo: https://reactjs-coding-challeng-search-filter.netlify.app/
+
 Initial Setup:
 1) Let an array of strings called fruits, for example: ["apple", "banana", "cherry", "date", "elder
 2) Display this list in the UI.
